@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prernaahujaa
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on the projects for newcomers(new to coding)
+- 🌱 I’m currently learning JAVA 
+- 💞️ I’m looking to collaborate on the projects for freshers(new to coding)
 - 📫 Reach me on - prernaahuja.03@gmail.com
 
 <!---
